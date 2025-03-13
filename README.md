@@ -1,5 +1,5 @@
 
-# SATCount
+# SATCount: A scale-aware transformer-based class-agnostic counting framework
 
 This project is based on CounTR, and the new model is called SATCount.
 
