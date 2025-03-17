@@ -3,7 +3,7 @@
 
 This project is based on CounTR, and the new model is called SATCount.
 
-Environment Configuration Reference（https://github.com/Verg-Avesta/CounTR）
+Environment Configuration Reference (https://github.com/Verg-Avesta/CounTR)
 
 ## Model training
 
