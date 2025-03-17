@@ -17,7 +17,7 @@ a23FSC_test_wyt_scale.py
 
 a23models_wyt_scaleoldmicro.py
 
-## other
+## Other
 
 ./data --FSC147 dataset  
 ├── data  
