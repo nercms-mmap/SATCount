@@ -7,7 +7,7 @@ Environment Configuration Reference（https://github.com/Verg-Avesta/CounTR）
 
 ## Model training
 
-23finetune_scale.py
+23finetune_wyt_scale.py
 
 ## Model testing
 
