@@ -28,4 +28,3 @@ a23models_wyt_scaleoldmicro.py
 │   └── Train_Test_Val_FSC_147.json  
 
 ./output_fim6_dir --Where the trained model is stored  
-23checkpoint33-666.pth --The trained model corresponding to the optimal result
