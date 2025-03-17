@@ -11,11 +11,11 @@ Environment Configuration Reference（https://github.com/Verg-Avesta/CounTR）
 
 ## Model testing
 
-a23FSC_test_scale.py
+a23FSC_test_wyt_scale.py
 
 ## Model code
 
-a23models_scale.py
+a23models_wyt_scaleoldmicro.py
 
 ## other
 
