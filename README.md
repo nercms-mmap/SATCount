@@ -13,7 +13,7 @@ This paper studies the class-agnostic counting problem, which aims to count obje
 ## Environment
 Environment Configuration Reference (https://github.com/Verg-Avesta/CounTR)
 
-## Dataset
+## Datasets
 We experimented with the following two publicly available datasets, which can be downloaded by clicking on the links.
 
 FSC147(https://github.com/cvlab-stonybrook/LearningToCountEverything)
