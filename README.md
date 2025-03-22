@@ -22,11 +22,15 @@ CARPK(https://lafi.github.io/LPN/)
 
 ## Train
 To train the model, run the following code:  
-```python SATCount_finetune.py```
+```
+python SATCount_finetune.py
+```
 
 ## Test
 You can test SATCount on the FSC147 dataset with the following command:  
-```python SATCount_test.py```
+```
+python SATCount_test.py
+```
 
 ## Model code
 
