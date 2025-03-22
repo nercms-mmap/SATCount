@@ -21,11 +21,11 @@ FSC147(https://github.com/cvlab-stonybrook/LearningToCountEverything)
 CARPK(https://lafi.github.io/LPN/)
 
 ## Train
-To train the model, run the following code:
+To train the model, run the following code:  
 ```python SATCount_finetune.py```
 
 ## Test
-You can test SATCount on the FSC147 dataset with the following command:
+You can test SATCount on the FSC147 dataset with the following command:  
 ```python SATCount_test.py```
 
 ## Model code
@@ -47,8 +47,8 @@ a23models_wyt_scaleoldmicro.py
 ```
 
 ## Citation
-```
 If you find this repository useful, please consider giving ⭐ or citing:
+```
 @article{WANG2024106126,
 title = {SATCount: A scale-aware transformer-based class-agnostic counting framework},
 journal = {Neural Networks},
