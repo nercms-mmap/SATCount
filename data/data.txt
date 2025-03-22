@@ -1,5 +1,1 @@
-1  gt_density_map_adaptive_384_VarV2
-2  images_384_VarV2
-3  annotation_FSC147_384.json
-4  ImageClasses_FSC147.txt
-5  Train_Test_Val_FSC_147.json
+Where to place the datasets
