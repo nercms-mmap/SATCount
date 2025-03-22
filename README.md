@@ -10,22 +10,30 @@ This paper studies the class-agnostic counting problem, which aims to count obje
 
 ![圖一](https://github.com/user-attachments/assets/898aaffa-bd9f-4b4c-92e8-6a74f1f2eabd)
 
+## Environment
 Environment Configuration Reference (https://github.com/Verg-Avesta/CounTR)
 
-## Model training
+## Dataset
+We experimented with the following two publicly available datasets, which can be downloaded by clicking on the links.
 
-23finetune_wyt_scale.py
+FSC147(https://github.com/cvlab-stonybrook/LearningToCountEverything)
 
-## Model testing
+CARPK(https://lafi.github.io/LPN/)
 
-a23FSC_test_wyt_scale.py
+## Train
+To train the model, run the following code:
+```python SATCount_finetune.py```
+
+## Test
+You can test SATCount on the FSC147 dataset with the following command:
+```python SATCount_test.py```
 
 ## Model code
 
 a23models_wyt_scaleoldmicro.py
 
 ## Other
-
+```
 ./data --FSC147 dataset  
 ├── data  
 │   ├── gt_density_map_adaptive_384_VarV2  
@@ -33,5 +41,20 @@ a23models_wyt_scaleoldmicro.py
 │   ├── annotation_FSC147_384.json  
 │   ├── ImageClasses_FSC147.txt  
 │   └── Train_Test_Val_FSC_147.json  
+```
+```
+./output_fim6_dir --Where the trained model is stored
+```
 
-./output_fim6_dir --Where the trained model is stored  
+## Citation
+```
+If you find this repository useful, please consider giving ⭐ or citing:
+@article{WANG2024106126,
+title = {SATCount: A scale-aware transformer-based class-agnostic counting framework},
+journal = {Neural Networks},
+volume = {172},
+pages = {106126},
+year = {2024},
+author = {Yutian Wang and Bin Yang and Xi Wang and Chao Liang and Jun Chen}
+}
+```
