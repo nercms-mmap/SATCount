@@ -34,7 +34,7 @@ python SATCount_test.py
 
 ## Model code
 
-a23models_wyt_scaleoldmicro.py
+SATCount_model.py
 
 ## Other
 ```
