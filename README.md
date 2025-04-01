@@ -20,6 +20,10 @@ FSC147(https://github.com/cvlab-stonybrook/LearningToCountEverything)
 
 CARPK(https://lafi.github.io/LPN/)
 
+## Pre-trained Model
+The pre-trained model can be downloaded from this link:  
+(https://mega.nz/file/8utQkBoK#a4tav5TdbKvuvqkqwa5hJyOs2586q38YI5u5H_RkwZk)
+
 ## Train
 To train the model, run the following code:  
 ```
